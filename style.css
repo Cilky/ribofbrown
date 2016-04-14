@@ -1,6 +1,6 @@
 body {
 	background-color: white;
-	font-family: "Arial Narrow";
+	font-family: 'Roboto', sans-serif;
 }
 
 .blurb {
@@ -58,7 +58,7 @@ h1 {
 #last-week{
 	margin-left: 7%;
 	margin-right: 30px;
-	font-family: Helvetica;
+	font-family: 'Roboto', sans-serif;
 	color: #660000;
 	font-size: 18px;
 	width: 65%;
