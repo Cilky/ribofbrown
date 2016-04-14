@@ -17,11 +17,6 @@ body {
 	width: 65%;
 	float: left;
 	padding-top: 40px;
-	padding-bottom: 40px;
-	background-image: linear-gradient(to right, grey 33%, rgba(255,255,255,0) 0%);
-	background-position: bottom;
-	background-size: 40px 2px;
-	background-repeat: repeat-x;
 }
 
 #content h2 {
@@ -235,6 +230,6 @@ h1 {
 }
 
 .sub-stories {
-	margin-bottom: 0px;
+	margin-bottom: 40px;
 }
 
