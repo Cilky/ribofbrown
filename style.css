@@ -1,3 +1,8 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
 body {
 	background-color: white;
 	font-family: 'Roboto', sans-serif;
@@ -244,3 +249,9 @@ h1 {
 	margin-bottom: 40px;
 }
 
+svg {
+/*	border-style: solid;
+	border-width: 1px;*/
+	margin: auto;
+	opacity: 0.7;
+}
