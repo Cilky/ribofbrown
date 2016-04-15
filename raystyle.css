@@ -158,6 +158,11 @@
     	padding-right: 20px;
     }
     #cats img{
+		width: 30%;
+	}
+}
+@media screen and (max-width: 667px) {
+	#cats img{
 		width: 100%;
 	}
 }
